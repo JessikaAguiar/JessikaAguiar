@@ -13,9 +13,9 @@
 
 ### I like 
 
-- Playing sports like swimming :swimmer: 
-- Dance but I'm ashamed :dancer: :see_no_evil: 
-- Learning and sharing knowledge, there was a time when I was a basic introduction teacher in web programming :computer:  
+- Play sports like swimming :swimmer: 
+- Dance, but I'm shy :dancer: :see_no_evil: 
+- Learning and sharing knowledge, there was a time when I was an introduction teacher to web development :computer:  
 - I’m currently working on Secretaria de Segurança Pública/AM - DTI PMAM
 
 ## Conections
