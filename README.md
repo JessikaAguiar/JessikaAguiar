@@ -16,7 +16,7 @@
 - Play sports like swimming :swimmer: 
 - Dance, but I'm shy :dancer: :see_no_evil: 
 - Learning and sharing knowledge, there was a time when I was an introduction teacher to web development :computer:  
-- I’m currently working on Secretaria de Segurança Pública/AM - DTI PMAM
+- I’m currently working on Instituto FlexPeak | IFPK. 
 
 ## Conections
 <hr>
