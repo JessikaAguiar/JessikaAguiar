@@ -1,8 +1,5 @@
 <h3 align='center'> Hi guys! Be welcome! :raising_hand:</h3>
 <hr>
-<p align='center'>
-  <img src="https://user-images.githubusercontent.com/61212740/89102578-c46b8980-d3d8-11ea-8171-1366648d38c9.jpeg" >
-</p>
 
 <h3 align='center'> My name's Jéssika Aguiar, but can call me Jessi and this is my portfolio. :information_desk_person: </h3>
 
