@@ -10,17 +10,16 @@
 - 💻 **Experiência com** desenvolvimento Fullstack (Frontend & Backend), UX/UI Design.  
 - 🌟 **Apaixonada por** ensinar! Já fui professora de programação web e informática básica, além de instrutora para aprendizes PCDs.  
 - 🌱 **Em constante aprendizado:** Atualmente focada em desenvolvimento web, automação de testes e design de interfaces.  
-- 🎨 **Interesses pessoais:** Amo explorar hobbies como dança, costura, desenho e jogos online.  
 - 🏢 **Atualmente trabalho no Instituto CREATHUS.**  
 
 ## Ferramentas e Tecnologias  
 <hr>  
 
 - **Frontend:** Vuejs, Nextjs, React, Angular, HTML5, CSS3, JavaScript, TypeScript  
-- **Backend:** Node.js, Laravel  
-- **Banco de dados:** MySQL, Postgress
+- **Backend:** Node.js, Laravel, DjangoRest  
+- **Banco de dados:** MySQL, Postgress, Oracle
 - **DevOps Básico:** Docker, Git 
-- **Outros:** Figma, Tailwind CSS  
+- **Outros:** Figma, Tailwind CSS,  
 
 ## Conecte-se comigo!  
 <hr>  
